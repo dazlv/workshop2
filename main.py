@@ -3,6 +3,12 @@ def main():
     print(f'name = {name}')
     print("Wellcome to the workshop 2")
 
+
+
+
+
+
+
     if(name == "hello"):
         print("world!")
     elif(name == "world"):
